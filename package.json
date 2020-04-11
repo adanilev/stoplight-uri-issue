@@ -6,5 +6,8 @@
   "dependencies": {
     "@stoplight/json-ref-resolver": "^3.0.8",
     "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/urijs": "^1.19.8"
   }
 }
