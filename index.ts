@@ -1,3 +1,3 @@
-import { Spectral } from "@stoplight/spectral";
+import { Resolver } from "@stoplight/json-ref-resolver"
 
-const s = new Spectral();
+const r = new Resolver();
